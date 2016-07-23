@@ -1,4 +1,4 @@
-# FirebasePractice1
+# Firebase Practice 1
 First Firebase Practice
 
 1.  FAB(Floating Action Button) 클릭 시 Dialog 보여지기
